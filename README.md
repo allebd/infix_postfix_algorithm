@@ -1,2 +1,2 @@
 # infix_postfix_algorithm
-An Javascript Stack using infix and postfix
+A Python Stack using infix and postfix
